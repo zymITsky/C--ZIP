@@ -1,0 +1,12 @@
+G:\新建文件夹\项目\压缩解压缩\压缩解压缩\bin\Debug\压缩解压缩.exe.config
+G:\新建文件夹\项目\压缩解压缩\压缩解压缩\bin\Debug\压缩解压缩.exe
+G:\新建文件夹\项目\压缩解压缩\压缩解压缩\bin\Debug\压缩解压缩.pdb
+G:\新建文件夹\项目\压缩解压缩\压缩解压缩\bin\Debug\ICSharpCode.SharpZipLib.dll
+G:\新建文件夹\项目\压缩解压缩\压缩解压缩\obj\Debug\压缩解压缩.csprojAssemblyReference.cache
+G:\新建文件夹\项目\压缩解压缩\压缩解压缩\obj\Debug\压缩解压缩.Form1.resources
+G:\新建文件夹\项目\压缩解压缩\压缩解压缩\obj\Debug\压缩解压缩.Properties.Resources.resources
+G:\新建文件夹\项目\压缩解压缩\压缩解压缩\obj\Debug\压缩解压缩.csproj.GenerateResource.cache
+G:\新建文件夹\项目\压缩解压缩\压缩解压缩\obj\Debug\压缩解压缩.csproj.CoreCompileInputs.cache
+G:\新建文件夹\项目\压缩解压缩\压缩解压缩\obj\Debug\压缩解压缩.csproj.CopyComplete
+G:\新建文件夹\项目\压缩解压缩\压缩解压缩\obj\Debug\压缩解压缩.exe
+G:\新建文件夹\项目\压缩解压缩\压缩解压缩\obj\Debug\压缩解压缩.pdb
